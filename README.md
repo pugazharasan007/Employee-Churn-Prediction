@@ -1,7 +1,7 @@
 # HR_DataAnalysis
 
 **Project Overview**
-This project involves predicting employee attrition using an HR dataset with an initial size of 14,999 records. After removing 3,008 duplicate entries, the refined dataset contains 11,991 unique records. The objective was to evaluate different machine learning models and identify the most effective approach for predicting employee turnover.
+This project involves predicting employee churn using an HR dataset. The dataset, initially comprising 14,999 records, was refined to 11,991 unique entries by removing 3,008 duplicate records. The objective was to evaluate various machine learning models to effectively predict whether an employee is likely to leave the company.
 
 **Data**
 The dataset, HR_Dataset.csv, includes features such as satisfaction level, last evaluation, number of projects, average monthly hours, time spent in the company, work accident, promotion in the last 5 years, departments, and salary.
