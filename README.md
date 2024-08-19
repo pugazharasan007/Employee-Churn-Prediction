@@ -1,4 +1,4 @@
-# HR_DataAnalysis
+# Employee Churn Prediction
 
 **Project Overview**
 This project involves predicting employee churn using an HR dataset. The dataset, initially comprising 14,999 records, was refined to 11,991 unique entries by removing 3,008 duplicate records. The objective was to evaluate various machine learning models to effectively predict whether an employee is likely to leave the company.
